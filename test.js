@@ -1,1 +1,2 @@
-const teste = () => console.log(2);
+const teste = () => console.log(5);
+teste()
