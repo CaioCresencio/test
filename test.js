@@ -1,0 +1,1 @@
+const teste = () => console.log(1);
